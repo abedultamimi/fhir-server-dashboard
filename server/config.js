@@ -10,7 +10,7 @@ module.exports = {
     // USER SETTINGS
 
     // The URL for the server
-    SERVER: '',
+    SERVER: 'http://hapi-fhir-jpaserver-7f11eafb-1.218c01e8.cont.dockerapp.io/hapi-fhir-jpaserver',
 
     // The tags that you wish to include in the Resource Counts Table
     TAGS: [],
